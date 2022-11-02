@@ -8,7 +8,7 @@
   - [Linkedlists and Doubly Linkedlists]() <b><i></b></i>
   - [Recursion]() <b><i></b></i>
 - <b>NLP models in Python (NLTK, Sklearn, BeautifulSoup)</b>
-  - [Keyword recognition-based chatbot]() <b><i></b></i>
+  - [Keyword recognition-based chatbot](https://github.com/SergioCanoV/KeywordRecognitionBasedChatbot) <b><i></b></i>
   - [Sentiment analysis model]() <b><i></b></i>
 - <b>Unsupervised models in Python</b>
   - [LDA Mixed Groups](https://github.com/SergioCanoV/LDA_Mixed_Groups) <b><i></b></i>
