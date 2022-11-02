@@ -3,13 +3,15 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms coding in Java</b>
-  - Arrays
-  - Stacks and Queues
-  - Linkedlists and Doubly Linkedlists
-  - Recursion
+  - [Arrays]() <b><i></b></i>
+  - [Stacks and Queues]() <b><i></b></i>
+  - [Linkedlists and Doubly Linkedlists]() <b><i></b></i>
+  - [Recursion]() <b><i></b></i>
 - <b>NLP models in Python (NLTK, Sklearn, BeautifulSoup)</b>
   - [Keyword recognition-based chatbots]() <b><i></b></i>
   - [Sentiment analysis model]() <b><i></b></i>
+- <b>Unsupervised models in Python</b>
+  - [LDA Mixed Groups](https://github.com/SergioCanoV/LDA_Mixed_Groups) <b><i></b></i>
 - <b>Web scraping algorithms</b>
   - [TBD]
  
