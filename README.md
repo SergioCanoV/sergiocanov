@@ -1,9 +1,12 @@
-<h1>Hi, I'm Sergio! <br/>Data Scientist</a>
+<h1>Hi, I'm Sergio! <br/>Data Scientist</h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms coding in Java</b>
-  - 
+  - Arrays
+  - Stacks and Queues
+  - Linkedlists and Doubly Linkedlists
+  - Recursion
 - <b>NLP models in Python (NLTK, Sklearn, BeautifulSoup)</b>
   - [Keyword recognition-based chatbots]() <b><i></b></i>
   - [Sentiment analysis model]() <b><i></b></i>
