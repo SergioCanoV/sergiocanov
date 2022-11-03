@@ -2,11 +2,6 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Data Structures and Algorithms coding in Java</b>
-  - [Arrays]() <b><i></b></i>
-  - [Stacks and Queues]() <b><i></b></i>
-  - [Linkedlists and Doubly Linkedlists]() <b><i></b></i>
-  - [Recursion]() <b><i></b></i>
 - <b>NLP models in Python (NLTK, Sklearn, BeautifulSoup)</b>
   - [Keyword recognition-based chatbot](https://github.com/SergioCanoV/KeywordRecognitionBasedChatbot) <b><i></b></i>
   - [Sentiment analysis model]() <b><i></b></i>
