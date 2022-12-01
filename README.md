@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>NLP models in Python (NLTK, Sklearn, BeautifulSoup)</b>
-  - [Processing text]() <b><i></b></i>
+  - [Processing text - Initial steps]() <b><i></b></i>
   - [Keyword recognition-based chatbot](https://github.com/SergioCanoV/KeywordRecognitionBasedChatbot) <b><i></b></i>
   - [Sentiment analysis model in Twitter and sending NRT email notifications] [In progress]() <b><i></b></i>
 - <b>Unsupervised models in Python</b>
