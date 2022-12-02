@@ -5,7 +5,7 @@
 - <b>NLP models in Python (NLTK, Sklearn, BeautifulSoup)</b>
   - [Processing text - Initial steps]() <b><i></b></i>
   - [Keyword recognition-based chatbot](https://github.com/SergioCanoV/KeywordRecognitionBasedChatbot) <b><i></b></i>
-  - [Sentiment analysis model in Twitter and sending NRT email notifications] [In progress]() <b><i></b></i>
+  - [Sentiment analysis model in Twitter] [In progress]() <b><i></b></i>
 - <b>Unsupervised models in Python</b>
   - [LDA Mixed Groups](https://github.com/SergioCanoV/LDA_Mixed_Groups) <b><i></b></i>
 - <b>Web scraping algorithms</b>
