@@ -8,6 +8,8 @@
   - [Sentiment analysis model in Twitter](https://github.com/SergioCanoV/Sentiment_analysis_model_Twitter) <b><i></b></i>
 - <b>Unsupervised models in Python</b>
   - [LDA Mixed Groups](https://github.com/SergioCanoV/LDA_Mixed_Groups) <b><i></b></i>
+- <b>API connection projects</b>
+  - [Stockmarket dashboard](https://github.com/SergioCanoV/Stockmarket_Dashboard) <b><i></b></i>
 - <b>Web scraping algorithms</b>
   - [TBD]
  
